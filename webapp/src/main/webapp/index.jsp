@@ -35,5 +35,5 @@
 
   <h1> Have a great Day</h1>
   <h1>Thank you once again for visitng</h1>
-  <h1>Please visit regularly</h1>
+  <h1>Please visit again</h1>
 </form>
